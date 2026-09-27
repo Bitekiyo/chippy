@@ -1,0 +1,25 @@
+# Visual Studio & Compiler Artifacts
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.aps
+*.pch
+*.ipch
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Agent & local metadata
+.agents/
+
+# Binary ROM files
+*.ch8
+roms/
